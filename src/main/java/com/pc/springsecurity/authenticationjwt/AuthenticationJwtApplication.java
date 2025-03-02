@@ -1,4 +1,4 @@
-package com.pc.springsecurity.Authentication_Jwt;
+package com.pc.springsecurity.authenticationjwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
